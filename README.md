@@ -71,7 +71,7 @@
   📅 Issued: **May 2024**  
 
 - **Microsoft Azure Administrator Associate (AZ-104)** *(In Progress)*  
-  📌 Target Completion: **2025**  
+  📌 Target Completion: **2026**  
 
 ---
 
