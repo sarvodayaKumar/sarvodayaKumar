@@ -2,7 +2,7 @@
 
 🚀 **Senior Development Engineer** | Cloud & DevOps | Golang Developer 
 
-🔹 4+ years of experience in **network performance optimization, microservices architecture, and DevOps practices**.  
+🔹 5+ years of experience in **network performance optimization, microservices architecture, and DevOps practices**.  
 🔹 Skilled in building **cloud-native applications**, automating **CI/CD pipelines**, and managing infrastructure with **Terraform & Ansible**.  
 🔹 Strong background in **encryption, security, and performance monitoring** for high-scale systems.  
 
